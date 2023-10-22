@@ -1,7 +1,5 @@
 # Analyzing Sales, Margin, and Growth for Art Products in the US using Tableau
 
----
-
 ## Introduction
 
 This project delves into the sales analytics of art products within the US market. Leveraging Tableau, we aim to derive actionable insights on sales distribution, profit margins, and year-on-year growth.
@@ -40,7 +38,8 @@ This project delves into the sales analytics of art products within the US marke
 5. **Dashboard Creation**:
    - Combine all the visualizations into a single dashboard.
    - Ensure interactivity by integrating filters and hover-over details.
-![Dashboard Visualization](https://www.example.com/path/to/your/image.png)
+
+![Dashboard Visualization](dv.png)
 
   
    The dashboard allows  to visualize and explore the sales of art in different US 
