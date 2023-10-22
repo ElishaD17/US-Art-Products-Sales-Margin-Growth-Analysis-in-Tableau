@@ -56,8 +56,3 @@ This project delves into the sales analytics of art products within the US marke
 
 The Tableau-based analysis painted a clear picture of the art product market within the US. The insights derived can aid stakeholders in making data-driven decisions, whether it's targeting specific states, adjusting pricing strategies based on margins, or capitalizing on growing trends.
 
-## Future Scope
-
-- Dive deeper into sub-categories within art products to understand specific trends.
-- Integrate external data like economic indicators or cultural events to see if they impact art sales.
-- Forecast future sales using Tableau's predictive analytics features.
