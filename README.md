@@ -40,10 +40,10 @@ This project delves into the sales analytics of art products within the US marke
 5. **Dashboard Creation**:
    - Combine all the visualizations into a single dashboard.
    - Ensure interactivity by integrating filters and hover-over details.
-
-6. **Story Narration**:
-   - Create a story in Tableau to walk through each visualization and its findings.
-   - Use textual annotations to provide context.
+  ![Visualization 7](image_link_7)
+   The dashboard allows  to visualize and explore the sales of art in different US 
+   states, understand the sales margin and overall revenue, and assess the percentage 
+   change in sales between the current year and the previous year.. 
 
 ---
 
