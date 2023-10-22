@@ -40,12 +40,12 @@ This project delves into the sales analytics of art products within the US marke
 5. **Dashboard Creation**:
    - Combine all the visualizations into a single dashboard.
    - Ensure interactivity by integrating filters and hover-over details.
-  ![Visualization 7](image_link_7)
+     
+   ![Vi](Untitled design (5).png)
+  
    The dashboard allows  to visualize and explore the sales of art in different US 
    states, understand the sales margin and overall revenue, and assess the percentage 
-   change in sales between the current year and the previous year.. 
-
----
+   change in sales between the current year and the previous year.
 
 ## Results
 
